@@ -19,13 +19,13 @@ Before using this plugin you will need to have [`prisma`](https://www.prisma.io/
 **npm**
 
 ```shell
-$ npm i fastify-prisma
+$ npm i @joggr/fastify-prisma
 ```
 
 **yarn**
 
 ```shell
-$ yarn add fastify-prisma
+$ yarn add @joggr/fastify-prisma
 ```
 
 ### Register the plugin
